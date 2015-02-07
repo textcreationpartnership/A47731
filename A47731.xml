@@ -2026,12 +2026,24 @@ then upon this Base erect a Cone or Pyra<g ref="char:EOLhyphen"/>mid of the heig
                               <hi>VII.</hi> To make a Cube equal to a Cylinder given.</head>
                            <p n="1">1. Make a Parallelepiped equal to a Cy<g ref="char:EOLhyphen"/>linder given, by Problem 1. of this Chap<g ref="char:EOLhyphen"/>ter.</p>
                            <p n="2">2. Afterwards make a Cube equal to that Parallelepiped, by the precedent Problem, and you have the Cube desired.</p>
-                           <figure/>
-                           <figure/>
-                           <figure/>
-                           <figure/>
-                           <figure/>
-                           <figure/>
+                           <p>
+                              <pb facs="tcp:55244:48"/>
+                              <figure/>
+                              <pb facs="tcp:55244:48"/>
+                              <figure/>
+                           </p>
+                           <p>
+                              <pb facs="tcp:55244:49"/>
+                              <figure/>
+                              <pb facs="tcp:55244:49"/>
+                              <figure/>
+                           </p>
+                           <p>
+                              <pb facs="tcp:55244:50"/>
+                              <figure/>
+                              <pb facs="tcp:55244:50"/>
+                              <figure/>
+                           </p>
                         </div>
                         <div n="8" type="problem">
                            <pb n="78" facs="tcp:55244:51"/>
@@ -5157,21 +5169,33 @@ But consider, that the Enemy having broken the Parapet of the Point, may afterwa
                         </gap>ches at a great distance, in regard these are as so many second Bastions, which are opposed to the Enemy. And moreover that they defend the Passage of the Moat, command the Covert<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>way, and above the <hi>Glacis</hi>; 'tis certain, that being well disposed, they may defend the Head of the Breach, which the Enemy shall make in the Face of the Bastion, wherein those <hi>Cavaleers</hi> are erected. Now</p>
-                     <figure>
-                        <head>A Figure shewing all the angles in a Square</head>
-                     </figure>
-                     <figure>
-                        <head>A Draught &amp; Square of Vaubane.</head>
-                     </figure>
-                     <figure>
-                        <head>For § 3: Book: III Chap:V. Fig: VI.</head>
-                     </figure>
-                     <figure>
-                        <head>For § 2. Book: III Chap:V. Fig: V.</head>
-                     </figure>
-                     <figure>
-                        <head>For § 4 Book: III Chap:V. Fig: VII.</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:55244:98"/>
+                        <pb facs="tcp:55244:99"/>
+                        <figure>
+                           <head>A Figure shewing all the angles in a Square</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:55244:100" rendition="simple:additions"/>
+                        <pb facs="tcp:55244:100" rendition="simple:additions"/>
+                        <pb facs="tcp:55244:101"/>
+                        <figure>
+                           <head>A Draught &amp; Square of Vaubane.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:55244:102" rendition="simple:additions"/>
+                        <figure>
+                           <head>For § 3: Book: III Chap:V. Fig: VI.</head>
+                        </figure>
+                        <figure>
+                           <head>For § 2. Book: III Chap:V. Fig: V.</head>
+                        </figure>
+                        <figure>
+                           <head>For § 4 Book: III Chap:V. Fig: VII.</head>
+                        </figure>
+                     </p>
                      <p>
                         <pb facs="tcp:55244:103"/>
                         <pb n="81" facs="tcp:55244:103"/>
@@ -5585,24 +5609,76 @@ of two Fathoms, as DEFG; and afterwards draw AB in the Point E, BC in the Point 
                      <p n="2">2. Upon each exterior side draw an <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>osceles Triangle of 480 Fathoms.</p>
-                     <figure>
-                        <head>The Plan of a Horn work before the Bastion of a Square.</head>
-                     </figure>
-                     <figure>
-                        <head>The Draught of a Horn-work with Shoulders.</head>
-                     </figure>
-                     <figure>
-                        <head>a Horn-work with a Crown before it.</head>
-                     </figure>
-                     <figure>
-                        <head>A draught of a Square with a Crown Work before the Courtin. Fig: 11</head>
-                     </figure>
-                     <figure>
-                        <head>A Pentagone or Work of five Bastions. Fig: XVI.</head>
-                     </figure>
-                     <figure>
-                        <head>A Draught of a Pen<g ref="char:EOLunhyphen"/>tagone or five sided Figure with Tenailles within the Ditch.  Fig: 16.</head>
-                     </figure>
+                     <p n="3">3. Place upon these Triangles all the Parts and Distances which you make use of in a regular Fortific<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tion, and take the Distances across to put them upon he parts of your irre<g ref="char:EOLhyphen"/>gular Plane<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> For Example; if an irregular Pentago<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o be fortified, I take 180 Fathoms an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> I m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ke <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pon each exterior side an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>soscel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s Triangle, ABC. Then I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Fathoms, which I put upon the Triangle ABC, as CDE; of which the length DE, shall be the true Length for the Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pendicular of the Line AB: Which done, I put 50 Fathoms upon the same Triangle, as CFG the Length FG, sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll be the just dista<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or the Face of my Work. After this, I put again 38 Fathoms 3 Feet upon the Triangle; and the distance taken across HI, will give me the true Length for my Complement of the Line of Defe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce. Las<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ly, I join the Flanks and the Curtains together, as i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a
+<pb facs="tcp:55244:112"/>
+                        <pb facs="tcp:55244:113" rendition="simple:additions"/>
+                        <figure>
+                           <head>The Plan of a Horn work before the Bastion of a Square.</head>
+                        </figure>
+                        <pb facs="tcp:55244:114"/>
+                        <figure>
+                           <head>The Draught of a Horn-work with Shoulders.</head>
+                        </figure>
+                        <figure>
+                           <head>a Horn-work with a Crown before it.</head>
+                        </figure>
+
+                        <pb facs="tcp:55244:115"/>
+                        <figure>
+                           <head>A draught of a Square with a Crown Work before the Courtin. Fig: 11</head>
+                        </figure>
+
+                        <pb facs="tcp:55244:116" rendition="simple:additions"/>
+                        <pb facs="tcp:55244:116"/>
+                        <pb facs="tcp:55244:117"/>
+                        <figure>
+                           <head>A Pentagone or Work of five Bastions. Fig: XVI.</head>
+                        </figure>
+                        <pb facs="tcp:55244:118"/>
+                        <figure>
+                           <head>A Draught of a Pen<g ref="char:EOLunhyphen"/>tagone or five sided Figure with Tenailles within the Ditch.  Fig: 16.</head>
+                        </figure>
+                        <pb facs="tcp:55244:119" rendition="simple:additions"/>
+                        <pb n="97" facs="tcp:55244:119"/>
+regular. After which I divide the Flank into 3 equal parts; I draw the Brisure as usually, and retain one of the 3 parts of the divided Flank for the <hi>Orillon,</hi> and the two o<g ref="char:EOLhyphen"/>thers for the hollow Tower. See the Plate T. <hi>Fig.</hi> 38.</p>
                   </div>
                   <div n="13" type="chapter">
                      <head>CHAP. XIII. Of the Body of the Placo in an Irregular Fortification.</head>
